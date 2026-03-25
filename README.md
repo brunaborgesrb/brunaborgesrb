@@ -1,8 +1,9 @@
 ## Olá, eu sou Bruna Borges!
 
-- 👩‍💻 Graduanda em Ciência da Computação na UNICAP
+- 🎓​ Graduada em Ciência da Computação na UNICAP
 - 💻 Técnica de Computação Gráfica pelo IFPE
-- 🖥️ Estagiária de desenvolvimento de software 
+- 👩‍💻​ Desenvolvedora de Software
+- 🖥️ Analista SAP 
 
 
 <div align="center">
